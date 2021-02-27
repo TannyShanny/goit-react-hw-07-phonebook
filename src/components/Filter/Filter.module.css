@@ -1,0 +1,13 @@
+.filter_text {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+}
+
+.filter_input {
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #979393;
+  outline: 0;
+}
